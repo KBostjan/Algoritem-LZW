@@ -1,0 +1,6 @@
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\LZW\LZW\bin\Debug\LZW.exe.config
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\LZW\LZW\bin\Debug\LZW.exe
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\LZW\LZW\bin\Debug\LZW.pdb
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\LZW\LZW\obj\Debug\LZW.csprojResolveAssemblyReference.cache
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\LZW\LZW\obj\Debug\LZW.exe
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\LZW\LZW\obj\Debug\LZW.pdb
